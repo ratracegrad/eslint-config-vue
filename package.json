@@ -26,5 +26,13 @@
   },
   "peerDependencies": {
     "eslint": "^7.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratracegrad/eslint-config-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ratracegrad/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/ratracegrad/eslint-config-vue#readme"
 }
